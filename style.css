@@ -1,0 +1,26 @@
+body {
+    background-color: gold;
+}
+
+#show_sketch {
+    float: right;
+}
+
+#object {
+    color: red;
+    font-size: 20px;
+}
+
+#timer {
+    float: right;
+    margin-right: 40px;
+    color: royalblue;
+    font-size: 20px;
+}
+
+#score {
+    float: left;
+    margin-left: 40px;
+    color: royalblue;
+    font-size: 20px;
+}
